@@ -13,10 +13,10 @@
 | twr_Rev2.x.bin     | [firmware](./twr_Rev2.x.bin)     |
 | twr_gps_debug.bin  | [firmware](./twr_gps_debug.bin)  |
 
-## How falsh *.bin file ?
+## How flash *.bin file ?
 
 1. [Win10 Flash method](https://github.com/Xinyuan-LilyGO/LilyGo-Document/blob/master/WinFlashBin.md)
-2. [Mac & Liunx Flash method](https://github.com/Xinyuan-LilyGO/LilyGo-Document/blob/master/MacFlashBin.md)
+2. [Mac & Linux Flash method](https://github.com/Xinyuan-LilyGO/LilyGo-Document/blob/master/MacFlashBin.md)
 
 # 2️⃣ TinyUF2 firmware
 
